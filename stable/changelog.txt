@@ -1,0 +1,2 @@
+2.0.0-1 — 2026-10-03
+Mudi Core 2.0.0: GL panel page, VPN failover on GL WireGuard profiles, security checklist, Blue Merle installer, Lua backend, signed OTA updates.
