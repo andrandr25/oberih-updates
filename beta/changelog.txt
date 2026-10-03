@@ -1,3 +1,6 @@
+2.1.2-1 — 2026-10-03
+Fix All no longer times out (runs in the background); failover waits for a tunnel that is just starting
+
 2.1.1-1 — 2026-10-03
 Checklist shows the real VPN state; Blue Merle from the signed mirror with IMEI notice; install from GL Plug-ins; weekly update check
 
