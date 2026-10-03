@@ -1,3 +1,6 @@
+2.2.1-1 — 2026-10-03
+Checklist and VPN tile always agree on whether the VPN is on
+
 2.2.0-1 — 2026-10-03
 Support card: the router serial number to give when you ask for help
 
