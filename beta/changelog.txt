@@ -1,2 +1,5 @@
+2.1.1-1 — 2026-10-03
+Checklist shows the real VPN state; Blue Merle from the signed mirror with IMEI notice; install from GL Plug-ins; weekly update check
+
 2.0.0-1 — 2026-10-03
 Mudi Core 2.0.0
