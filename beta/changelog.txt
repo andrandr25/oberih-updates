@@ -1,3 +1,6 @@
+2.4.0-1 — 2026-10-04
+Battery card: time to full charge and time left, with a charge chart; optional estimate on the Mudi screen
+
 2.3.0-1 — 2026-10-04
 Wi-Fi, IPv6, SSH and the side switch are now set through GL's own services and show up on the GL pages; SSH from the internet uses GL Remote Access (keys only)
 
