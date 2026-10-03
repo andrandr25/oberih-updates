@@ -1,11 +1,11 @@
 Package: luci-app-mudi
-Version: 2.0.0-1
-Depends: luci-base, rpcd, jsonfilter, wireguard-tools, curl
+Version: 2.2.1-1
+Depends: rpcd, jsonfilter, wireguard-tools, curl, usign, lua, libubus-lua, libuci-lua, lua-cjson, luci-lib-nixio
 Section: luci
 Architecture: all
 Maintainer: androffka
 Description: GL-E750 Mudi dashboard for the GL admin panel (Mudi Core) and LuCI: status, WireGuard multi-node failover on top of the GL VPN client, Wi-Fi, SSH and Blue Merle settings
-Filename: luci-app-mudi_2.0.0-1_all.ipk
-Size: 65077
-SHA256sum: 95a1a262fdfcbb7a1fa034175e2e68a9fa328d945bfb5da835ee8d1d0f5083f3
+Filename: luci-app-mudi_2.2.1-1_all.ipk
+Size: 70739
+SHA256sum: 089596489ed78a60589094520780348f7d2a4d7ef6bb701afe227cabafb7874f
 
