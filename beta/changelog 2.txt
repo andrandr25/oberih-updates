@@ -1,0 +1,17 @@
+1.9.7-1 — 2026-10-03
+BROKEN build for rollback test
+
+1.9.6-1 — 2026-10-03
+checksum test
+
+1.9.5-1 — 2026-10-03
+Keep user config across updates.
+
+1.9.3-1 — 2026-10-03
+Updater started via pid file.
+
+1.9.2-1 — 2026-10-03
+Detached updater, state outside the package dir.
+
+1.9.1-1 — 2026-10-03
+Test release: OTA updates.
