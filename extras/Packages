@@ -1,0 +1,191 @@
+Package: blue-merle
+Version: 2.0.5-0
+Depends: luci-base, gl-sdk4-mcu, coreutils-shred, python3-pyserial, libc
+Source: package/blue-merle
+SourceName: blue-merle
+License: BSD-3-Clause
+Section: utils
+SourceDateEpoch: 1696887935
+Maintainer: Matthias <matthias@srlabs.de>
+Architecture: mips_24kc
+Installed-Size: 11338
+Description:  The blue-merle package enhances anonymity and reduces forensic traceability of the GL-E750 Mudi 4G mobile wi-fi router
+Filename: blue-merle_3.0.5-0_mips_24kc.ipk
+Size: 13001
+SHA256sum: f76232fb295a906d76cac2c17d8ef119f9d434d8abc2fa49cac921e2ab605243
+
+Package: coreutils-shred
+Version: 9.0-2
+Depends: libc, coreutils
+Alternatives: 300:/usr/bin/shred:/usr/libexec/shred-coreutils
+License: GPL-3.0-or-later
+Section: utils
+CPE-ID: cpe:/a:gnu:coreutils
+Architecture: mips_24kc
+Installed-Size: 25358
+Filename: coreutils-shred_9.0-2_mips_24kc.ipk
+Size: 26085
+SHA256sum: 3b1b761d214bb767b7d1fc48b75e11a171dfcc323db581600ce0b7f7c97ebeac
+
+Package: libbz2-1.0
+Version: 1.0.8-1
+Depends: libc
+Provides: libbz2
+License: bzip2-1.0.8
+Section: libs
+ABIVersion: -1.0
+CPE-ID: cpe:/a:bzip:bzip2
+Architecture: mips_24kc
+Installed-Size: 23228
+Filename: libbz2-1.0_1.0.8-1_mips_24kc.ipk
+Size: 24044
+SHA256sum: 9fb1604dd82f70b52b6c10465459951c40e5f00f27485269fca7a2836ed68065
+
+Package: libffi
+Version: 3.4.2-2
+Depends: libc
+License: MIT
+Section: libs
+Architecture: mips_24kc
+Installed-Size: 14072
+Filename: libffi_3.4.2-2_mips_24kc.ipk
+Size: 15052
+SHA256sum: c55665c7c6fbd29361fd64a9be3909e6c7e11b22fbf097ee4829c22dacd0c981
+
+Package: liblucihttp-lua
+Version: 2023-03-15-9b5b683f-1
+Depends: libc, liblucihttp0, liblua5.1.5
+License: ISC
+Section: libs
+Architecture: mips_24kc
+Installed-Size: 3526
+Filename: liblucihttp-lua_2023-03-15-9b5b683f-1_mips_24kc.ipk
+Size: 4300
+SHA256sum: 3faf32b30f8fbf6721f6af6ff800723b10e763cfd1cfa4d8d34f622f1ed914cb
+
+Package: liblucihttp0
+Version: 2023-03-15-9b5b683f-1
+Depends: libc
+Provides: liblucihttp
+License: ISC
+Section: libs
+ABIVersion: 0
+Architecture: mips_24kc
+Installed-Size: 6857
+Filename: liblucihttp0_2023-03-15-9b5b683f-1_mips_24kc.ipk
+Size: 7679
+SHA256sum: 1a7da468b598caee6115643b2c4491c8dd23a15ea715e268584f9f6c89b2d025
+
+Package: libpython3-3.10
+Version: 3.10.9-1
+Depends: libc, libpthread, zlib
+Provides: libpython3
+License: PSF-2.0
+Section: lang
+ABIVersion: -3.10
+CPE-ID: cpe:/a:python:python
+Architecture: mips_24kc
+Installed-Size: 1041716
+Filename: libpython3-3.10_3.10.9-1_mips_24kc.ipk
+Size: 1037191
+SHA256sum: 175ed17b3dc2dbae693b50c4c461ea605c37b9fc3152d2a3954a5772f97cd953
+
+Package: luci-base
+Version: git-23.093.57104-ce20b4a
+Depends: libc, lua, luci-lib-nixio, luci-lib-ip, rpcd, libubus-lua, luci-lib-jsonc, liblucihttp-lua, luci-lib-base, rpcd-mod-file, rpcd-mod-luci, cgi-io
+License: MIT
+Section: luci
+Architecture: mips_24kc
+Installed-Size: 132174
+Filename: luci-base_git-23.093.57104-ce20b4a_mips_24kc.ipk
+Size: 133259
+SHA256sum: 2890f8b6c669ce3a13cdfa81de06945cd51abac3a852d3903b35766c247a8e04
+
+Package: luci-lib-base
+Version: git-20.232.39649-1f6dc29
+Depends: libc, lua, luci-lib-nixio, luci-lib-ip, luci-lib-jsonc, liblucihttp-lua
+Section: luci
+Architecture: all
+Installed-Size: 12497
+Filename: luci-lib-base_git-20.232.39649-1f6dc29_all.ipk
+Size: 13376
+SHA256sum: fe26e9da46c59a1440dbb9d0fca06b50342bec22c581cf920c77e79f972aa910
+
+Package: luci-lib-ip
+Version: git-20.250.76529-62505bd
+Depends: libc, liblua5.1.5, libnl-tiny1
+License: Apache-2.0
+Section: luci
+Architecture: mips_24kc
+Installed-Size: 10890
+Filename: luci-lib-ip_git-20.250.76529-62505bd_mips_24kc.ipk
+Size: 11764
+SHA256sum: d3ab49a4a8dab5824dc2a6a4ab9eba6b1ab8aa8214aeaf79bb25c17a2d9c5a51
+
+Package: luci-lib-jsonc
+Version: git-22.097.61921-7513345
+Depends: libc, liblua5.1.5, libjson-c5
+Section: luci
+Architecture: mips_24kc
+Installed-Size: 4379
+Filename: luci-lib-jsonc_git-22.097.61921-7513345_mips_24kc.ipk
+Size: 5213
+SHA256sum: f88ccfe14061bab44c6d743ae72818b28f6fe4ab03cc9f29cc09371229366f3f
+
+Package: luci-lib-nixio
+Version: git-20.234.06894-c4a4e43
+Depends: libc, liblua5.1.5
+License: Apache-2.0
+Section: luci
+Architecture: mips_24kc
+Installed-Size: 28510
+Filename: luci-lib-nixio_git-20.234.06894-c4a4e43_mips_24kc.ipk
+Size: 29045
+SHA256sum: c3e7393fb765dcb13910f5b23b70d8d37a40e2bea4d8394c08d5ecd40b80488b
+
+Package: python3-base
+Version: 3.10.9-1
+Depends: libc, libpthread, zlib, libpython3-3.10
+License: PSF-2.0
+Section: lang
+CPE-ID: cpe:/a:python:python
+Architecture: mips_24kc
+Installed-Size: 157367
+Filename: python3-base_3.10.9-1_mips_24kc.ipk
+Size: 157039
+SHA256sum: 94b0cfc51c98c1f38f14d811a3d289a40f707b2a000890dfc1f217c441094d92
+
+Package: python3-light
+Version: 3.10.9-1
+Depends: libc, python3-base, libffi, libbz2-1.0
+License: PSF-2.0
+Section: lang
+CPE-ID: cpe:/a:python:python
+Architecture: mips_24kc
+Installed-Size: 2098749
+Filename: python3-light_3.10.9-1_mips_24kc.ipk
+Size: 2096738
+SHA256sum: dcaf3da8e228bf57bcb43bc9ba3758d81c79531b968c88146debedc4a6d7060c
+
+Package: python3-pyserial
+Version: 3.4-2
+Depends: libc, python3-light
+License: BSD
+Section: lang-python
+Architecture: mips_24kc
+Installed-Size: 96563
+Filename: python3-pyserial_3.4-2_mips_24kc.ipk
+Size: 97563
+SHA256sum: 515eed65834a0a065d2b7e7ac6ef77852625411f4300e74fd1f53ce25538e0b8
+
+Package: rpcd-mod-luci
+Version: 20210614
+Depends: libc, rpcd, libubox20220515, libubus20220601, libnl-tiny1
+License: Apache-2.0
+Section: libs
+Architecture: mips_24kc
+Installed-Size: 12397
+Filename: rpcd-mod-luci_20210614_mips_24kc.ipk
+Size: 13262
+SHA256sum: 1ba52b077971411c7ed81af45ca80ecddc5f32ae917d4e5c022077f35ea73bb0
+

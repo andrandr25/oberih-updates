@@ -1,0 +1,5 @@
+Unmodified binary packages, mirrored for the Mudi Core one-click Blue Merle install.
+blue-merle: https://github.com/srlabs/blue-merle (BSD-3-Clause)
+all others: GL.iNet feed v22.03.4/packages-4.2/ath79, built from OpenWrt 22.03 packages;
+sources: https://github.com/openwrt/packages/tree/openwrt-22.03 and https://github.com/openwrt/luci/tree/openwrt-22.03
+Licences are listed in each package (control file, License field).
