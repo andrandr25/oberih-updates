@@ -1,3 +1,6 @@
+2.4.1-1 — 2026-10-04
+The battery estimate on the Mudi screen is an extra page next to the GL pages
+
 2.4.0-1 — 2026-10-04
 Battery card: time to full charge and time left, with a charge chart; optional estimate on the Mudi screen
 
