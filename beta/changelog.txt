@@ -1,3 +1,6 @@
+2.5.8-1 — 2026-10-04
+Device ID is now the one on the sticker and in the GL panel
+
 2.5.7-1 — 2026-10-04
 Cloudflare WARP in one click in the setup wizard (each router gets its own account); a new random Wi-Fi name and password, saved through GL; device ID for support
 
