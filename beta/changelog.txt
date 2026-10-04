@@ -1,3 +1,6 @@
+2.5.7-1 — 2026-10-04
+Cloudflare WARP in one click in the setup wizard (each router gets its own account); a new random Wi-Fi name and password, saved through GL; device ID for support
+
 2.5.6-1 — 2026-10-04
 Made for setting up from a phone: no SSH keys needed (SSH is simply off unless you use keys), the setup wizard saves everything before the Wi-Fi restarts, paste a VPN config as text; routers tell the update server their model, firmware and an anonymous device ID
 
