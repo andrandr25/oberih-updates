@@ -1,3 +1,6 @@
+2.5.6-1 — 2026-10-04
+Made for setting up from a phone: no SSH keys needed (SSH is simply off unless you use keys), the setup wizard saves everything before the Wi-Fi restarts, paste a VPN config as text; routers tell the update server their model, firmware and an anonymous device ID
+
 2.5.5-1 — 2026-10-04
 Fixes from an independent review: safe mode always shows Resume, updates keep working in safe mode, the setup wizard keeps your Wi-Fi bands and power, upgraded routers skip the wizard
 
