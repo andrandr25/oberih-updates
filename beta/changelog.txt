@@ -1,3 +1,6 @@
+2.4.2-1 — 2026-10-04
+GL firmware compatibility checks: a setting GL would read differently is switched off with the reason instead of being written; single IPv6 fix works
+
 2.4.1-1 — 2026-10-04
 The battery estimate on the Mudi screen is an extra page next to the GL pages
 
