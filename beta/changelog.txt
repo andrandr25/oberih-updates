@@ -1,3 +1,6 @@
+2.5.3-1 — 2026-10-04
+Guard only ever stops Mudi Core's own processes
+
 2.5.2-1 — 2026-10-04
 Guard: if Mudi Core ever overloads the router it pauses itself and shows why; VPN and settings keep working
 
