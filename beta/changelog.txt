@@ -1,3 +1,6 @@
+2.5.4-1 — 2026-10-04
+Staged rollout: a stable release can reach part of the routers first
+
 2.5.3-1 — 2026-10-04
 Guard only ever stops Mudi Core's own processes
 
