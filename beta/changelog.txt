@@ -1,3 +1,6 @@
+2.5.2-1 — 2026-10-04
+Guard: if Mudi Core ever overloads the router it pauses itself and shows why; VPN and settings keep working
+
 2.5.1-1 — 2026-10-04
 Setup wizard: real GL menu names, nicer file import, compact steps on phones
 
