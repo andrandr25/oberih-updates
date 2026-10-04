@@ -1,3 +1,6 @@
+2.4.4-1 — 2026-10-04
+Settings go through GL's own services and show up on the GL pages; battery card with time to full / time left and an optional page on the Mudi screen; GL firmware compatibility checks; SSH from the internet via GL Remote Access (keys only); support card with the serial number; many fixes
+
 2.2.1-1 — 2026-10-03
 Install from GL Plug-ins without LuCI; weekly update check; Blue Merle from the signed mirror with IMEI notice; checklist shows the real VPN state; Fix All runs in the background; failover waits for a starting tunnel; Support card with the serial number
 
