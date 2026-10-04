@@ -8,7 +8,7 @@ Signed packages for Mudi Core (`luci-app-mudi`) on GL.iNet GL-E750 (Mudi V2) rou
 
 Stock GL firmware 4.x, router online:
 
-1. Admin panel `http://192.168.8.1` → **Applications → Plug-ins → Sources** → **Add**:
+1. Admin panel `http://192.168.8.1` → **Applications → Plug-ins → Manage Sources** → add a custom software source:
    name `mudi`, URL `https://git.fraola.net/androffka/mudi-updates/raw/branch/main/stable`
 2. **Update** the package lists.
 3. Find `luci-app-mudi` → **Install**.
