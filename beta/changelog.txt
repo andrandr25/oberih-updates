@@ -1,3 +1,6 @@
+2.4.4-1 — 2026-10-04
+Fix: the GL compatibility check could overload the router while the Mudi Core page was open
+
 2.4.3-1 — 2026-10-04
 Fix: the GL compatibility check could overload the router while the Mudi Core page was open
 
