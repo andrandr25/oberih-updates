@@ -1,3 +1,6 @@
+2.5.5-1 — 2026-10-04
+Fixes from an independent review: safe mode always shows Resume, updates keep working in safe mode, the setup wizard keeps your Wi-Fi bands and power, upgraded routers skip the wizard
+
 2.5.4-1 — 2026-10-04
 Staged rollout: a stable release can reach part of the routers first
 
