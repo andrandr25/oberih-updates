@@ -1,3 +1,6 @@
+2.6.0-1 — 2026-10-05
+Your own Mullvad account: enter the account number, choose countries, servers join the failover list; every new owner is offered a new Wi-Fi name and password
+
 2.5.11-1 — 2026-10-04
 Fixes from an independent review: settings and fixes no longer get stuck until a reboot, safer Cloudflare WARP setup, the setup wizard keeps a Wi-Fi network already in use
 
