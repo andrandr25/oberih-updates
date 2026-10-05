@@ -1,3 +1,6 @@
+2.6.8-1 — 2026-10-06
+VPN: no node switching during an LTE outage, backup within 20 s, your Connect choice is kept, many failover fixes
+
 2.6.7-1 — 2026-10-06
 Switching the update channel also switches the Plug-ins source
 
