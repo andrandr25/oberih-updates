@@ -1,3 +1,6 @@
+2.6.1-1 — 2026-10-05
+The VPN you turn on in GL (your Mullvad account) joins failover as node 1; if the VPN goes off, a backup such as WARP is turned on within a minute
+
 2.6.0-1 — 2026-10-05
 Your own Mullvad account: enter the account number, choose countries, servers join the failover list; every new owner is offered a new Wi-Fi name and password
 
