@@ -1,3 +1,6 @@
+2.6.6-1 — 2026-10-05
+VPN always on is now an option you can turn off; Cloudflare WARP from Add node; VPN profiles are backed up before every change
+
 2.6.5-1 — 2026-10-05
 Fix: the setup wizard could not apply the VPN step with two or more nodes (Invalid params)
 
