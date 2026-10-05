@@ -1,3 +1,6 @@
+2.6.3-1 — 2026-10-05
+Fixes from an independent review: failover only takes a VPN you turn on in GL, never one you removed; safer Mullvad account setup
+
 2.6.2-1 — 2026-10-05
 A VPN server you add by hand goes before Cloudflare WARP: WARP stays the backup and no longer takes over your Mullvad
 
