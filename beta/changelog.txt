@@ -1,3 +1,6 @@
+2.6.11-1 — 2026-10-06
+VPN failover starts minutes earlier after a reboot
+
 2.6.10-1 — 2026-10-06
 VPN: no node switching while the tunnel is still connecting; your choice survives an update
 
