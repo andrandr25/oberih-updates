@@ -1,3 +1,6 @@
+2.6.14-1 — 2026-10-06
+Block internet past the VPN: a new option, safe across updates
+
 2.6.13-1 — 2026-10-06
 Your devices never reach the internet past the VPN, not even while it reconnects
 
