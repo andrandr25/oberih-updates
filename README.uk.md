@@ -9,7 +9,7 @@
 Заводська прошивка GL 4.x, роутер має інтернет:
 
 1. Адмін-панель `http://192.168.8.1` → **Додатки → Плагіни → Керування джерелами** → додати власне джерело:
-   назва `mudi`, URL `https://git.fraola.net/androffka/mudi-updates/raw/branch/main/stable`
+   назва `mudi`, URL `https://raw.githubusercontent.com/andrandr25/oberih-updates/main/stable`
 2. **Оновити** — оновити списки пакетів.
 3. Знайти `luci-app-mudi` → **встановити**.
 4. Оновити сторінку — у лівому меню з'явиться **Mudi Core**. Оновлення далі приходять самі.
