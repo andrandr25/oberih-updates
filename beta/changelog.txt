@@ -1,3 +1,6 @@
+2.7.0~beta1-1 — 2026-11-20
+Oberih (new name). Features: turn the VPN and every other part on or off in one place. Internet speed test from a device's place on the LAN. Leak test from a device's place, VPN history, copy diagnostics, link to the guide. Updates now come from GitHub. Safer installs: no automatic install on a nearly empty battery.
+
 2.6.14-1 — 2026-10-06
 Block internet past the VPN: a new option, safe across updates
 
