@@ -1,3 +1,6 @@
+2.7.0~beta3-1 — 2026-11-20
+The LTE signal shows its quality in one word (Excellent, Good, Fair, Weak, Poor), coloured, next to dBm and SINR.
+
 2.7.0~beta2-1 — 2026-11-20
 Each VPN node has its own on/off switch under Features: an off node stays in the list but is never used; switching off the node in use moves the VPN to the next one, or stops it when none is left. The VPN switch names the node it uses or will connect.
 
